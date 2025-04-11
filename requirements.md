@@ -85,3 +85,50 @@ Ze besparen tijd en hoeven minder te bellen of mailen. Alles staat in één app,
 
 **Voordeel voor het bedrijf**  
 Meer klantloyaliteit, lagere kosten door minder contactmomenten, en beter gebruik van klantgegevens voor marketing.
+
+
+## User Stories voor de PhoneVentures App
+
+### 1. Product Registreren  
+**User Story:**  
+Als klant wil ik mijn smartphone makkelijk kunnen registreren zodat ik de garantie en info van mijn product kan zien.  
+
+**Wat moet er gebeuren:**  
+Ik kan mijn telefoon registreren door een QR-code te scannen of ik kan het serienummer handmatig invullen, daarna zie ik mijn telefoon in mijn overzicht.
+
+---
+
+### 2. Garantie Melding  
+**User Story:**  
+Als klant wil ik een bericht krijgen als mijn garantie bijna stopt zodat ik op tijd kan verlengen.  
+
+**Wat moet er gebeuren:**  
+Ik krijg een melding 30 dagen voor mijn garantie eindigt en in de melding kan ik mijn garantie verlengen.
+
+---
+
+### 3. Handleidingen en Video’s Bekijken  
+**User Story:**  
+Als klant wil ik mijn handleidingen en video’s kunnen bekijken voor mijn toestel zodat ik weet hoe het werkt.  
+
+**Wat moet er gebeuren:**  
+Er is een pagina met handleidingen en video’s en ik kan zoeken op het onderwerp dat ik zoek.
+
+---
+
+### 4. Chatten met Klantenservice  
+**User Story:**  
+Als klant wil ik met een medewerker kunnen chatten zodat ik snel geholpen word.  
+
+**Wat moet er gebeuren:**  
+Ik kan chatten met een medewerker als het kantoor open is. De app helpt eerst met een chatbot voor simpele vragen.
+
+---
+
+### 5. Reparatie Melden  
+**User Story:**  
+Als klant wil ik een reparatie kunnen melden en volgen in de app zodat ik weet wat er met mijn toestel gebeurt.  
+
+**Wat moet er gebeuren:**  
+Ik stuur wat er gerepareerd moet worden in de app. Dit doe ik door een foto of video te laten zien. Ik krijg meldingen als de status verandert van mijn reparaties.
+
