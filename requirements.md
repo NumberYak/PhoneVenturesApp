@@ -36,22 +36,36 @@ Door middel van een app wil PhoneVentures de klantenservice beter maken, meer pr
 
 ---
 
-## 3. Bedrijfsprocesanalyse (SIPOC)
+## 3. Bedrijfsprocesanalyse
 
-### SIPOC Tabel
+Bij PhoneVentures gaat het proces nu nog best ouderwets. Als klanten hulp nodig hebben, moeten ze meestal bellen of mailen. Dit zorgt voor lange wachttijden en frustraties.
 
-| Supplier       | Input                              | Process                                                | Output                                           | Customer       |
-|----------------|------------------------------------|--------------------------------------------------------|--------------------------------------------------|----------------|
-| Klant          | Productinformatie, vragen          | Registratie, info tonen, diagnose, support             | Antwoorden, statusupdates, aanbevelingen         | Klant          |
-| Technisch team | Firmware en softwaregegevens       | Updates verwerken                                      | Klant heeft up-to-date apparaat                  | Klant          |
-| Marketing      | Acties en promoties                | Sturen van pushberichten                               | Persoonlijke aanbiedingen                         | Klant          |
+Met de nieuwe app willen we dit veranderen. Klanten moeten straks makkelijk via de app:
+- hun producten kunnen registreren,
+- handleidingen kunnen lezen,
+- problemen melden,
+- en updates krijgen.
 
-### Ist-Soll-Knelpunten-Gap
+### Huidige situatie (IST)
+- Klanten nemen contact op via telefoon of e-mail
+- Veel tijd nodig om simpele vragen te beantwoorden
+- Klanten moeten zelf uitzoeken wat ze moeten doen
 
-- **Ist (huidige situatie)**: Klanten moeten bellen of mailen voor hulp  
-- **Soll (gewenste situatie)**: Klanten kunnen alles zelf doen in de app  
-- **Knelpunten**: Wachttijden zijn lang, info is vaak onduidelijk  
-- **Gap**: De app moet zorgen voor automatisering en self-service  
+### Gewenste situatie (SOLL)
+- Klanten regelen alles zelf via de app
+- Minder druk op de klantenservice
+- Meer overzicht en gemak voor de klant
+
+### Problemen/Knelpunten
+- Wachttijden zijn lang
+- Niet alle informatie is makkelijk vindbaar
+- Er zijn veel losse systemen in gebruik
+
+### Wat er nodig is (GAP)
+- Alles centraliseren in één app
+- Selfservice toevoegen
+- Beter overzicht voor klant en medewerkers
+
 
 ---
 
