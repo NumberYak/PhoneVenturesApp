@@ -1,134 +1,115 @@
-# Requirements Specificatie - PhoneVentures App
+# Requirements Specificatie 
+
 
 ## 1. Organisatorische Context
 
-**Missie**  
+### Missie  
 PhoneVentures wil de klanttevredenheid en klantloyaliteit verbeteren door digitale middelen te gebruiken.
 
-**Visie**  
+### Visie  
 Het doel is om een gebruiksvriendelijke digitale omgeving te maken voor mensen die een smartphone hebben.
 
-**Strategie**  
-Door middel van een app wil PhoneVentures de klantenservice beter maken, meer producten verkopen en klanten beter bereiken via marketing.
+### Strategie  
+Via een app wil PhoneVentures de klantenservice verbeteren, de verkoop van accessoires verhogen en gerichte marketing inzetten.
 
-**Doelstellingen**  
+### Doelstellingen
 - Klanten moeten meer tevreden zijn  
 - Klanten blijven langer bij het bedrijf  
 - De klantenservice werkt efficiënter  
 - Meer verkoop van extra producten zoals accessoires  
 
-**Stakeholders**  
+### Stakeholders
 - Klanten van PhoneVentures  
 - Medewerkers van de klantenservice  
 - Het marketingteam  
-- Ontwikkelaars/IT-afdeling  
+- Ontwikkelaars / IT-afdeling  
 - Het management van PhoneVentures  
 
 ---
 
 ## 2. Actoren
 
-- **Klant**: kan producten registreren, handleidingen bekijken, vragen stellen en notificaties ontvangen via de app  
-- **Klantenservice**: helpt klanten bij vragen of problemen  
-- **Technisch team**: zorgt voor updates en lost technische problemen op  
-- **Marketing**: stuurt acties, aanbiedingen en promoties  
-- **Beheerder**: zorgt ervoor dat het systeem goed blijft werken en beheert de inhoud  
+| Actor           | Taken in de App                                                                 |
+|-----------------|----------------------------------------------------------------------------------|
+| **Klant**           | Product registreren, handleidingen lezen, vragen stellen, notificaties ontvangen |
+| **Klantenservice**  | Reageert op vragen of meldingen van klanten via het systeem                   |
+| **Technisch team**  | Verzorgt technische updates en lost bugs op                                   |
+| **Marketing**       | Plaatst promoties en aanbiedingen in de app                                   |
+| **Beheerder**       | Beheert de inhoud en zorgt voor goed werkende systemen                         |
 
 ---
 
 ## 3. Bedrijfsprocesanalyse
 
-Bij PhoneVentures gaat het proces nu nog best ouderwets. Als klanten hulp nodig hebben, moeten ze meestal bellen of mailen. Dit zorgt voor lange wachttijden en frustraties.
-
-Met de nieuwe app willen we dit veranderen. Klanten moeten straks makkelijk via de app:
-- hun producten kunnen registreren,
-- handleidingen kunnen lezen,
-- problemen melden,
-- en updates krijgen.
-
 ### Huidige situatie (IST)
-- Klanten nemen contact op via telefoon of e-mail
-- Veel tijd nodig om simpele vragen te beantwoorden
-- Klanten moeten zelf uitzoeken wat ze moeten doen
+- Klanten nemen contact op via telefoon of e-mail  
+- Veel tijd nodig om simpele vragen te beantwoorden  
+- Klanten moeten zelf informatie opzoeken  
+- Geen centraal systeem  
 
 ### Gewenste situatie (SOLL)
-- Klanten regelen alles zelf via de app
-- Minder druk op de klantenservice
-- Meer overzicht en gemak voor de klant
+- Klanten regelen alles zelf via de app  
+- Klantenservice wordt ontlast  
+- Informatie en updates overzichtelijk beschikbaar  
+- Eén centrale digitale oplossing  
 
-### Problemen/Knelpunten
-- Wachttijden zijn lang
-- Niet alle informatie is makkelijk vindbaar
-- Er zijn veel losse systemen in gebruik
-
-### Wat er nodig is (GAP)
-- Alles centraliseren in één app
-- Selfservice toevoegen
-- Beter overzicht voor klant en medewerkers
-
+### GAP-analyse 
+- Alles centraliseren in één app  
+- Selfservice functionaliteiten  
+- Beter overzicht en koppeling van klantdata  
 
 ---
 
-## 4. Productvisie (Product Vision Board)
+### SIPOC-model
 
-**Doelgroep**  
-Mensen die een smartphone gekocht hebben bij PhoneVentures.
-
-**Wat willen ze?**  
-Ze willen snel hulp, duidelijke productinformatie, software-updates en profiteren van acties.
-
-**Wat is het product?**  
-Een app waarin ze alles kunnen regelen: registratie, hulp, promoties, updates en community.
-
-**Voordeel voor klanten**  
-Ze besparen tijd en hoeven minder te bellen of mailen. Alles staat in één app, aangepast op hun situatie.
-
-**Voordeel voor het bedrijf**  
-Meer klantloyaliteit, lagere kosten door minder contactmomenten, en beter gebruik van klantgegevens voor marketing.
-
-
-## User Stories voor de PhoneVentures App
-
-### 1. Product Registreren  
-**User Story:**  
-Als klant wil ik mijn smartphone makkelijk kunnen registreren zodat ik de garantie en info van mijn product kan zien.  
-
-**Wat moet er gebeuren:**  
-Ik kan mijn telefoon registreren door een QR-code te scannen of ik kan het serienummer handmatig invullen, daarna zie ik mijn telefoon in mijn overzicht.
+| **Supplier**              | **Input**                         | **Process**                                                    | **Output**                                     | **Customer**             |
+|---------------------------|-----------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
+| Klant                     | Product, Vraag, Probleemmelding   | Registratie / Hulpvraag / Informatie ophalen                   | Opgeloste vraag, geregistreerd product, info   | Klant                    |
+| Technisch team / Beheer   | Updates, content                  | Onderhoud en update van app                                    | Werkende functies, nieuwe content              | Klant, Klantenservice    |
+| Marketingteam             | Acties en promoties               | Promotionele content toevoegen aan app                         | Notificaties, banners, aanbiedingen            | Klant                    |
 
 ---
 
-### 2. Garantie Melding  
-**User Story:**  
-Als klant wil ik een bericht krijgen als mijn garantie bijna stopt zodat ik op tijd kan verlengen.  
+### BPMN-beschrijving 
 
-**Wat moet er gebeuren:**  
-Ik krijg een melding 30 dagen voor mijn garantie eindigt en in de melding kan ik mijn garantie verlengen.
-
----
-
-### 3. Handleidingen en Video’s Bekijken  
-**User Story:**  
-Als klant wil ik mijn handleidingen en video’s kunnen bekijken voor mijn toestel zodat ik weet hoe het werkt.  
-
-**Wat moet er gebeuren:**  
-Er is een pagina met handleidingen en video’s en ik kan zoeken op het onderwerp dat ik zoek.
+1. **Start** – Klant opent de app  
+2. Klant kiest een actie (bijv. product registreren, vraag stellen, promotie bekijken)  
+3. App verwerkt het verzoek en stuurt het door naar de juiste afdeling (bijv. support of database)  
+4. Klant ontvangt een terugkoppeling of oplossing via de app  
+5. **Einde**  
 
 ---
 
-### 4. Chatten met Klantenservice  
-**User Story:**  
-Als klant wil ik met een medewerker kunnen chatten zodat ik snel geholpen word.  
+## 4. Productvisie
 
-**Wat moet er gebeuren:**  
-Ik kan chatten met een medewerker als het kantoor open is. De app helpt eerst met een chatbot voor simpele vragen.
+### Doelgroep
+- Mensen die een smartphone hebben gekocht bij PhoneVentures  
+- Zowel jongere als oudere gebruikers met basiskennis van apps  
+- Klanten die snel hulp en ondersteuning willen  
 
----
+### Behoeften van de doelgroep
+- Directe toegang tot ondersteuning en productinformatie  
+- Geen lange wachttijden via telefoon  
+- Eenvoudig updates en promoties ontvangen  
+- Alles geregeld via één digitale omgeving  
 
-### 5. Reparatie Melden  
-**User Story:**  
-Als klant wil ik een reparatie kunnen melden en volgen in de app zodat ik weet wat er met mijn toestel gebeurt.  
+### Productbeschrijving
+Een multifunctionele app waarin klanten:
+- hun product kunnen registreren  
+- hulp kunnen vragen (FAQ of via support)  
+- handleidingen kunnen raadplegen  
+- promoties en acties kunnen bekijken  
+- notificaties krijgen over updates en nieuwe functies  
+- deel kunnen nemen aan een gebruikerscommunity  
 
-**Wat moet er gebeuren:**  
-Ik stuur wat er gerepareerd moet worden in de app. Dit doe ik door een foto of video te laten zien. Ik krijg meldingen als de status verandert van mijn reparaties.
+### Voordelen voor klanten
+- Minder tijd kwijt aan hulp zoeken  
+- Geen onnodige telefoontjes of e-mails  
+- Altijd toegang tot relevante informatie  
+- Persoonlijke ervaring met notificaties op maat  
 
+### Voordelen voor PhoneVentures
+- Kostenbesparing door minder klantcontact  
+- Meer loyaliteit door verhoogde klanttevredenheid  
+- Inzicht in klantgedrag via data uit de app  
+- Gerichtere marketingcampagnes mogelijk  
