@@ -78,7 +78,7 @@ Met de nieuwe app willen we dit veranderen. Klanten moeten straks makkelijk via 
 
 ---
 
-# 4. Productvisie
+## 4. Productvisie
 
 ## Visie
 **Waarom maken we deze app?**  
