@@ -1,6 +1,6 @@
 # Requirement Specificatie
 
-![r1](r1.png)
+![Requirements](Requirements.png)
 
 ## Telenova
 **Clemens Eimermann**  
@@ -214,7 +214,13 @@ Wat kost geld om de app te maken en goed te laten werken?
 ---
 
 ## 6. Domeinmodel
-![r2](r2.png)
+![Domeinmodel](Domeinmodel.png)
+
+In het diagram zie je hoe gebruikers hun producten kunnen registreren en beheren.
+Een gebruiker kan meerdere producten hebben. Bij elk product horen gegevens zoals garantie, aankoopinformatie, handleidingen en software-updates.
+Gebruikers kunnen meldingen krijgen, een reparatie aanvragen of een chat starten voor hulp. Ook kunnen ze berichten plaatsen in de community.
+Verder kan de gebruiker zijn voorkeuren instellen, zoals taal en privacy.
+Alles is verbonden met duidelijke relaties (0, 1 of meerdere).
 
 ---
 
@@ -290,7 +296,7 @@ Gebruikers kunnen berichten plaatsen in de community, bijvoorbeeld een vraag of 
 
 # 8. Sitemap
 
-![r3](r3.png)
+![Sitemap](Sitemap.png)
 
 De sitemap toont de navigatiestructuur van een digitale omgeving, bijvoorbeeld een website of applicatie. Het hoofdmenu bestaat uit vijf hoofdcategorieën: Dashboard, Support, Community, Instellingen en Product registreren. Elke hoofdcategorie bevat één of meerdere subpagina’s die logisch zijn gegroepeerd op basis van functie en gebruiksgemak.
 
@@ -308,7 +314,7 @@ Deze structuur zorgt ervoor dat gebruikers snel de juiste informatie of functie 
 
 ## Telefoon registreren
 
-![r4](r4.png)
+![Telefoonregistratie](Telefoonregistratie.png)
 
 De afbeelding laat een webpagina zien die gebruikt wordt om een telefoon te registreren via een QR-code of via een handmatige invoer.
 
@@ -331,7 +337,7 @@ In de groene balk onderaan staat contactinformatie, zoals het e-mailadres `suppo
 
 ## Reparatieverzoek
 
-![r5](r5.png)
+![Reparatieverzoek](Reparatieverzoek.png)
 
 De afbeelding laat een webpagina zien waar je een reparatieverzoek kunt indienen.
 
@@ -354,4 +360,4 @@ Onder het formulier staat een knop met de tekst "Verzoek indienen". Deze knop ge
 **Onderaan de pagina**  
 Onder het formulier verschijnt een groene melding. In deze melding staat dat het reparatieverzoek succesvol is verstuurd. Het bedrijf laat weten dat ze binnenkort contact opnemen met de klant.
 
-![r6](r6.png)
+![Wireframeproces](Wireframeproces.png)
