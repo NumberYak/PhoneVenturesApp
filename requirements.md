@@ -184,7 +184,7 @@ Wat kost geld om de app te maken en goed te laten werken?
 
 ## 5. User Stories voor de Phoneventures App
 
-# User Stories voor de Phoneventures App
+## User Stories voor de Phoneventures App
 
 1. **Product registreren**  
    Als gebruiker wil ik mijn smartphone makkelijk kunnen toevoegen in de app, zodat ik informatie en garantie van het product kan zien.
