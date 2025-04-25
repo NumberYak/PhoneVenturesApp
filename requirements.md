@@ -1,16 +1,15 @@
-# Requirements Specificatie 
-
+# Requirements Specificatie
 
 ## 1. Organisatorische Context
 
-### Missie  
+### Missie
 PhoneVentures wil de klanttevredenheid en klantloyaliteit verbeteren door digitale middelen te gebruiken.
 
-### Visie  
+### Visie
 Het doel is om een gebruiksvriendelijke digitale omgeving te maken voor mensen die een smartphone hebben.
 
-### Strategie  
-Via een app wil PhoneVentures de klantenservice verbeteren, de verkoop van accessoires verhogen en gerichte marketing inzetten.
+### Strategie
+Door middel van een app wil PhoneVentures de klantenservice beter maken, meer producten verkopen en klanten beter bereiken via marketing.
 
 ### Doelstellingen
 - Klanten moeten meer tevreden zijn  
@@ -29,87 +28,69 @@ Via een app wil PhoneVentures de klantenservice verbeteren, de verkoop van acces
 
 ## 2. Actoren
 
-| Actor           | Taken in de App                                                                 |
-|-----------------|----------------------------------------------------------------------------------|
-| **Klant**           | Product registreren, handleidingen lezen, vragen stellen, notificaties ontvangen |
-| **Klantenservice**  | Reageert op vragen of meldingen van klanten via het systeem                   |
-| **Technisch team**  | Verzorgt technische updates en lost bugs op                                   |
-| **Marketing**       | Plaatst promoties en aanbiedingen in de app                                   |
-| **Beheerder**       | Beheert de inhoud en zorgt voor goed werkende systemen                         |
+- **Klant**: Kan producten registreren, handleidingen bekijken, vragen stellen en notificaties ontvangen via de app.  
+- **Klantenservice**: Helpt klanten bij vragen of problemen.  
+- **Technisch team**: Zorgt voor updates en lost technische problemen op.  
+- **Marketing**: Stuurt acties, aanbiedingen en promoties.  
+- **Beheerder**: Zorgt ervoor dat het systeem goed blijft werken en beheert de inhoud.  
 
 ---
 
 ## 3. Bedrijfsprocesanalyse
 
+Bij PhoneVentures gaat het proces nu nog best ouderwets. Als klanten hulp nodig hebben, moeten ze meestal bellen of mailen. Dit zorgt voor lange wachttijden en frustraties.  
+
+Met de nieuwe app willen we dit veranderen. Klanten moeten straks makkelijk via de app:
+- hun producten kunnen registreren,  
+- handleidingen kunnen lezen,  
+- problemen melden,  
+- en updates krijgen.  
+
 ### Huidige situatie (IST)
 - Klanten nemen contact op via telefoon of e-mail  
 - Veel tijd nodig om simpele vragen te beantwoorden  
-- Klanten moeten zelf informatie opzoeken  
-- Geen centraal systeem  
+- Klanten moeten zelf uitzoeken wat ze moeten doen  
 
 ### Gewenste situatie (SOLL)
 - Klanten regelen alles zelf via de app  
-- Klantenservice wordt ontlast  
-- Informatie en updates overzichtelijk beschikbaar  
-- Eén centrale digitale oplossing  
+- Minder druk op de klantenservice  
+- Meer overzicht en gemak voor de klant  
 
-### GAP-analyse 
+### Problemen / Knelpunten
+- Wachttijden zijn lang  
+- Niet alle informatie is makkelijk vindbaar  
+- Er zijn veel losse systemen in gebruik  
+
+### Wat er nodig is (GAP)
 - Alles centraliseren in één app  
-- Selfservice functionaliteiten  
-- Beter overzicht en koppeling van klantdata  
+- Selfservice toevoegen  
+- Beter overzicht voor klant en medewerkers  
+
+### SIPOC – Overzicht van het klantondersteuningsproces via de app
+
+| **S**uppliers         | **I**nputs                                      | **P**rocessen                                                       | **O**utputs                                | **C**ustomers             |
+|-----------------------|-------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|----------------------------|
+| Ontwikkelteam         | Klantgegevens, productinformatie                | Klant registreert product in de app                                  | Product gekoppeld aan klantprofiel          | Klant                      |
+| Klantenservice        | FAQ's, supportdata                              | Klant stelt vraag of meldt probleem via de app                       | Automatische of directe ondersteuning       | Klant                      |
+| IT-afdeling           | Systeemupdates, technische ondersteuning        | App verwerkt meldingen en verstuurt notificaties                    | Up-to-date en werkende app                  | Klant en medewerkers       |
+| Marketingafdeling     | Promoties, acties, communicatiecontent          | App toont promoties en gepersonaliseerde aanbiedingen                | Verhoogde klantbetrokkenheid                | Klant                      |
+| Beheerder             | Inhoud, gebruikersbeheer                        | Systeembeheer en monitoring                                          | Stabiele en functionele omgeving            | Alle gebruikers van de app |
 
 ---
 
-### SIPOC-model
-
-| **Supplier**              | **Input**                         | **Process**                                                    | **Output**                                     | **Customer**             |
-|---------------------------|-----------------------------------|----------------------------------------------------------------|------------------------------------------------|--------------------------|
-| Klant                     | Product, Vraag, Probleemmelding   | Registratie / Hulpvraag / Informatie ophalen                   | Opgeloste vraag, geregistreerd product, info   | Klant                    |
-| Technisch team / Beheer   | Updates, content                  | Onderhoud en update van app                                    | Werkende functies, nieuwe content              | Klant, Klantenservice    |
-| Marketingteam             | Acties en promoties               | Promotionele content toevoegen aan app                         | Notificaties, banners, aanbiedingen            | Klant                    |
-
----
-
-### BPMN-beschrijving 
-
-1. **Start** – Klant opent de app  
-2. Klant kiest een actie (bijv. product registreren, vraag stellen, promotie bekijken)  
-3. App verwerkt het verzoek en stuurt het door naar de juiste afdeling (bijv. support of database)  
-4. Klant ontvangt een terugkoppeling of oplossing via de app  
-5. **Einde**  
-
----
-
-## 4. Productvisie
+## 4. Productvisie (Product Vision Board)
 
 ### Doelgroep
-- Mensen die een smartphone hebben gekocht bij PhoneVentures  
-- Zowel jongere als oudere gebruikers met basiskennis van apps  
-- Klanten die snel hulp en ondersteuning willen  
+Mensen die een smartphone gekocht hebben bij PhoneVentures.
 
-### Behoeften van de doelgroep
-- Directe toegang tot ondersteuning en productinformatie  
-- Geen lange wachttijden via telefoon  
-- Eenvoudig updates en promoties ontvangen  
-- Alles geregeld via één digitale omgeving  
+### Wat willen ze?
+Ze willen snel hulp, duidelijke productinformatie, software-updates en profiteren van acties.
 
-### Productbeschrijving
-Een multifunctionele app waarin klanten:
-- hun product kunnen registreren  
-- hulp kunnen vragen (FAQ of via support)  
-- handleidingen kunnen raadplegen  
-- promoties en acties kunnen bekijken  
-- notificaties krijgen over updates en nieuwe functies  
-- deel kunnen nemen aan een gebruikerscommunity  
+### Wat is het product?
+Een app waarin ze alles kunnen regelen: registratie, hulp, promoties, updates en community.
 
-### Voordelen voor klanten
-- Minder tijd kwijt aan hulp zoeken  
-- Geen onnodige telefoontjes of e-mails  
-- Altijd toegang tot relevante informatie  
-- Persoonlijke ervaring met notificaties op maat  
+### Voordeel voor klanten
+Ze besparen tijd en hoeven minder te bellen of mailen. Alles staat in één app, aangepast op hun situatie.
 
-### Voordelen voor PhoneVentures
-- Kostenbesparing door minder klantcontact  
-- Meer loyaliteit door verhoogde klanttevredenheid  
-- Inzicht in klantgedrag via data uit de app  
-- Gerichtere marketingcampagnes mogelijk  
+### Voordeel voor het bedrijf
+Meer klantloyaliteit, lagere kosten door minder contactmomenten, en beter gebruik van klantgegevens voor marketing.
