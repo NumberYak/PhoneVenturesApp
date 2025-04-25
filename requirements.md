@@ -10,14 +10,6 @@
 **Rayaan Hohoud**
 
 
-
-
-
-
-
-
-
-
 ### Versienummer | Datum | Auteur | Wijziging | Gecontroleerd
 - **0.1** | 11-04-2025 | Samir | Document aangemaakt + Organisatorische Context, Actoren en Bedrijfsprocesanalyse gemaakt | Clemens
 - **0.2** | 11-04-2025 | Clemens | Productvisie en user stories gemaakt | Zakaria
