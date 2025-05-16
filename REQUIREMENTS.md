@@ -16,7 +16,7 @@
 | **0.2**      | 11-04-2025  | Clemens  | Productvisie en user stories gemaakt                                      | Zakaria       |
 | **0.3**      | 11-04-2025  | Rayaan   | Domeinmodel, UML klassendiagram, Sitemap en Wireframes toegevoegd, Domeinmodel verbeterd | Usama         |
 | **0.4**      | 16-05-2025  | Samir   | Klikbare links toevoegd aan inhoud voor meer overzichtelijkheid | Usama         |
-| **0.5**      | 16-05-2025  | Rayaan   | Domeinmodel verbeterd | Zakaria
+| **0.5**      | 16-05-2025  | Rayaan   | Domeinmodel verbeterd, User Stories toegevoegd | Zakaria
 
 
 ## Inhoud
