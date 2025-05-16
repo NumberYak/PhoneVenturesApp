@@ -18,15 +18,15 @@
 
 
 ## Inhoud
-1. **Organisatorische Context**  
-2. **Actoren**  
-3. **Bedrijfsprocesanalyse**  
-4. **Productvisie (Product Vision Board)**  
-5. **User Stories voor de Phoneventures App**  
-6. **Domeinmodel**  
-7. **UML Klassendiagram**  
-8. **Sitemap**  
-9. **Wireframe**
+1. [**Organisatorische Context**](./Organisatorische_Context.md)
+2. [**Actoren**](./Actoren.md) 
+3. [**Bedrijfsprocesanalyse**](./Bedrijfsprocesanalyse.md)  
+4. [**Productvisie (Product Vision Board)**](./Productvisie.md)  
+5. [**User Stories voor de Phoneventures App**](./User_Stories.md)  
+6. [**Domeinmodel**](./Domeinmodel.md)  
+7. [**UML Klassendiagram**](./UML_Klassendiagram.md)  
+8. [**Sitemap**](./Sitemap.md)  
+9. [**Wireframe**](./Wireframe.md)
 
 ---
 
