@@ -10,10 +10,12 @@
 **Rayaan Hohoud**
 
 
-### Versienummer | Datum | Auteur | Wijziging | Gecontroleerd
-- **0.1** | 11-04-2025 | Samir | Document aangemaakt + Organisatorische Context, Actoren en Bedrijfsprocesanalyse gemaakt | Clemens
-- **0.2** | 11-04-2025 | Clemens | Productvisie en user stories gemaakt | Zakaria
-- **0.3** | 11-04-2025 | Rayaan | Domeinmodel, UML klassendiagram, Sitemap en Wireframes toegevoegd, Domeinmodel verbeterd | Usama
+| Versienummer | Datum       | Auteur   | Wijziging                                                                 | Gecontroleerd |
+|--------------|-------------|----------|---------------------------------------------------------------------------|---------------|
+| **0.1**      | 11-04-2025  | Samir    | Document aangemaakt + Organisatorische Context, Actoren en Bedrijfsprocesanalyse gemaakt | Clemens       |
+| **0.2**      | 11-04-2025  | Clemens  | Productvisie en user stories gemaakt                                      | Zakaria       |
+| **0.3**      | 11-04-2025  | Rayaan   | Domeinmodel, UML klassendiagram, Sitemap en Wireframes toegevoegd, Domeinmodel verbeterd | Usama         |
+
 
 ## Inhoud
 1. **Organisatorische Context**  
