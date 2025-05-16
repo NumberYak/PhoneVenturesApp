@@ -1,4 +1,3 @@
----
 
 # 9. Wireframe
 
@@ -24,7 +23,6 @@ Er verschijnt een melding dat de telefoon succesvol is geregistreerd. Dat beteke
 In de groene balk onderaan staat contactinformatie, zoals het e-mailadres `support@productregistration.com` en het telefoonnummer `+1234 567 890`. Aan de rechterkant vind je links naar de privacyverklaring en de algemene voorwaarden.
 
 ---
-
 ## Reparatieverzoek
 
 ![Reparatieverzoek](Reparatieverzoek.png)
