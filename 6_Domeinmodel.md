@@ -1,5 +1,5 @@
 ## 6. Domeinmodel
-![Domeinmodel](Domeinmodel.png)
+![Domeinmodel](Domeinmodel.jpg)
 
 In het diagram zie je hoe gebruikers hun producten kunnen registreren en beheren.
 Een gebruiker kan meerdere producten hebben. Bij elk product horen gegevens zoals garantie, aankoopinformatie, handleidingen en software-updates.
