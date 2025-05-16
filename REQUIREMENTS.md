@@ -18,7 +18,7 @@
 | **0.4**      | 16-05-2025  | Samir   | Klikbare links toevoegd aan inhoud voor meer overzichtelijkheid | Usama         |
 | **0.5**      | 16-05-2025  | Rayaan   | Domeinmodel verbeterd | Zakaria
 
-|
+
 ## Inhoud
 1. [**Organisatorische Context**](./1_Organisatorische_Context.md)
 2. [**Actoren**](./2_Actoren.md) 
