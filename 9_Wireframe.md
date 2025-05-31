@@ -1,51 +1,83 @@
 
 # 9. Wireframe
 
-## Telefoon registreren
+# PhoneVentures App – Wireframes
 
-![Telefoonregistratie](Telefoonregistratie.png)
-
-De afbeelding laat een webpagina zien die gebruikt wordt om een telefoon te registreren via een QR-code of via een handmatige invoer.
-
-**Bovenkant van de pagina**  
-Helemaal bovenaan zie je een logo met de tekst "Telefoon registratie". Rechts daarvan staat een menu met drie opties: Home, Scan QR Code en Handmatig invoeren. De optie Scan QR Code is groen gekleurd, dus dat is de pagina waar je op dat moment bent.
-
-**Midden van de pagina**  
-Er staat een koptekst die uitlegt dat je de QR-code op je product moet scannen met je telefoon. Op die manier voeg je het product toe aan je account. Daaronder staat een afbeelding van een telefoon die een QR-code scant.
-
-**Onder het midden**  
-Er verschijnt een melding dat de telefoon succesvol is geregistreerd. Dat betekent dat het toestel goed is toegevoegd aan je account. Je ziet ook een foto van het product, met daaronder de gegevens:
-- Productnaam: Telefoon
-- Model: 1
-- Serienummer: 11111122222
-
-**Onderaan de pagina**  
-In de groene balk onderaan staat contactinformatie, zoals het e-mailadres `support@productregistration.com` en het telefoonnummer `+1234 567 890`. Aan de rechterkant vind je links naar de privacyverklaring en de algemene voorwaarden.
+In dit document worden de wireframes getoond die zijn gemaakt op basis van de user stories. Elk wireframe geeft een visuele weergave van de functionaliteiten die belangrijk zijn voor de gebruikers van de app. Onder elk wireframe staat een korte uitleg van wat er te zien is.
 
 ---
-## Reparatieverzoek
 
-![Reparatieverzoek](Reparatieverzoek.png)
+## Product Registreren
 
-De afbeelding laat een webpagina zien waar je een reparatieverzoek kunt indienen.
+![Product Registreren](Wireframe1.png)
+ 
+In dit scherm kan een klant zijn smartphone registreren. Bovenaan staat een knop om een QR-code te scannen, en daaronder is er een veld om handmatig het serienummer in te vullen. Als de registratie is gelukt, verschijnt het toestel in het overzicht onderaan.
 
-**Bovenkant van de pagina**  
-Linksboven staat het logo met de tekst "Reparatie". Rechtsboven in het menu zie je drie opties:
-- Reparatieverzoek indienen
-- Reparatiestatus
-- Instellingen
+---
 
-De gebruiker is op dit moment op de pagina "Reparatieverzoek indienen".
+## Garantie Melding
 
-**Midden van de pagina**  
-In het midden van de pagina staat een formulier waar je informatie kunt invullen. Het formulier bestaat uit drie delen:
-1. **Beschrijf het probleem**: Hier kun je uitleggen wat er mis is met het apparaat of product.
-2. **Upload een foto of video**: Je kunt hier een afbeelding of filmpje toevoegen van het probleem, zodat de reparatiedienst een beter beeld krijgt.
-3. **Uw contactgegevens**: Hier vul je je e-mailadres of telefoonnummer in, zodat het bedrijf contact met je kan opnemen.
+![Garantie Melding](Wireframe2.png)
+ 
+De klant krijgt een melding te zien als de garantie bijna afloopt. In dit scherm zie je de melding met informatie over hoeveel dagen er nog over zijn. Er is ook een knop waarmee de klant meteen de garantie kan verlengen via de app.
 
-Onder het formulier staat een knop met de tekst "Verzoek indienen". Deze knop gebruik je om het formulier te versturen.
+---
 
-**Onderaan de pagina**  
-Onder het formulier verschijnt een groene melding. In deze melding staat dat het reparatieverzoek succesvol is verstuurd. Het bedrijf laat weten dat ze binnenkort contact opnemen met de klant.
+## Handleidingen en Video’s Bekijken
 
-![Wireframeproces](Wireframeproces.png)
+![Handleidingen en Video’s](Wireframe3.png)
+ 
+Hier kan de klant handleidingen en instructievideo’s vinden. Bovenaan staat een zoekbalk waarmee je op onderwerp kunt zoeken. Daaronder staan een aantal voorbeeldhandleidingen met titels en een korte beschrijving. De klant kan erop klikken om ze te openen.
+
+---
+
+## Chatten met Klantenservice
+
+![Chatten met Klantenservice](Wireframe4.png)
+
+In dit scherm begint de klant met een chatbot. De chatbot stelt eerst een paar vragen. Als het antwoord niet duidelijk genoeg is, kan de klant doorgeschakeld worden naar een echte medewerker. De chatfunctie is alleen beschikbaar als het kantoor open is.
+
+---
+
+##  Reparatie Melden
+
+![Reparatie Melden](Wireframe5.png)
+
+De klant kan hier een reparatie melden. Er is een veld om te typen wat er mis is, en daaronder knoppen om een foto of video toe te voegen. Als de aanvraag is verstuurd, krijgt de klant via meldingen updates over de voortgang van de reparatie.
+
+---
+
+## Reparatieverzoeken Beheren (Voor Medewerkers)
+
+![Reparatieverzoeken Beheren](Wireframe6.png)
+ 
+Dit scherm is voor klantenservicemedewerkers. Hier zie je een lijst met alle reparatieverzoeken, inclusief de naam van de klant, het toestel, de omschrijving van het probleem en de status (bijv. “Nieuw” of “In behandeling”). Er is ook een knop om contact op te nemen met de klant of een opmerking toe te voegen.
+
+---
+
+## Content Beheren (Voor Beheerders)
+
+![Content Beheren](Wireframe7.png)
+  
+In dit scherm kunnen beheerders handleidingen, video’s en veelgestelde vragen beheren. Ze kunnen hier nieuwe content toevoegen door bestanden te uploaden, titels en zoekwoorden in te voeren en bestaande informatie te bewerken of verwijderen. Alles staat netjes in een overzicht.
+
+---
+
+## Promoties Instellen (Voor Marketing)
+
+![Promoties Instellen](Wireframe8.png)
+![Promoties Beheren](Wireframe9.png)
+ 
+Dit scherm is voor de marketingafdeling. Er is een formulier waarmee ze een nieuwe promotie kunnen aanmaken. Ze kunnen een titel invullen, een afbeelding toevoegen, een geldigheidsduur kiezen en een doelgroep selecteren. Actieve promoties worden weergegeven in een lijstje onderaan.
+
+---
+
+## Bugs en Feedback Monitoren (Voor Ontwikkelaars)
+
+![Formulier aanmaken](Wireframe10.png)
+![Bugs en Feedback Monitoren](Wireframe11.png)
+  
+In dit dashboard zien ontwikkelaars alle bugs en feedback die zijn ingediend door klanten. Ze kunnen filteren op type probleem, de prioriteit aanpassen en de status bijhouden zoals “Opgelost” of “In onderzoek”. Dit helpt om technische problemen sneller aan te pakken.
+
+---
+
