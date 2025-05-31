@@ -66,7 +66,6 @@ In dit scherm kunnen beheerders handleidingen, video’s en veelgestelde vragen 
 
 ## Promoties Instellen (Voor Marketing)
 
-![Promoties Instellen](Wireframe8.png)
 ![Promoties Beheren](Wireframe9.png)
  
 Dit scherm is voor de marketingafdeling. Er is een formulier waarmee ze een nieuwe promotie kunnen aanmaken. Ze kunnen een titel invullen, een afbeelding toevoegen, een geldigheidsduur kiezen en een doelgroep selecteren. Actieve promoties worden weergegeven in een lijstje onderaan.
