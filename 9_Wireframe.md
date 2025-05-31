@@ -49,7 +49,8 @@ De klant kan hier een reparatie melden. Er is een veld om te typen wat er mis is
 
 ## Reparatieverzoeken Beheren (Voor Medewerkers)
 
-![Reparatieverzoeken Beheren](Wireframe6.png)
+![Reparatieverzoeken](Wireframe6.png)
+![Reparatieverzoeken Beheren](Wireframe7.png)
  
 Dit scherm is voor klantenservicemedewerkers. Hier zie je een lijst met alle reparatieverzoeken, inclusief de naam van de klant, het toestel, de omschrijving van het probleem en de status (bijv. “Nieuw” of “In behandeling”). Er is ook een knop om contact op te nemen met de klant of een opmerking toe te voegen.
 
@@ -57,7 +58,7 @@ Dit scherm is voor klantenservicemedewerkers. Hier zie je een lijst met alle rep
 
 ## Content Beheren (Voor Beheerders)
 
-![Content Beheren](Wireframe7.png)
+![Content Beheren](Wireframe8.png)
   
 In dit scherm kunnen beheerders handleidingen, video’s en veelgestelde vragen beheren. Ze kunnen hier nieuwe content toevoegen door bestanden te uploaden, titels en zoekwoorden in te voeren en bestaande informatie te bewerken of verwijderen. Alles staat netjes in een overzicht.
 
