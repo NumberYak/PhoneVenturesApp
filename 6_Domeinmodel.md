@@ -1,2 +1,2 @@
 ## 6. Domeinmodel
-![Domeinmodel](Domeinmodel.png)
+![Domeinmodel](domeinmodel.png)
