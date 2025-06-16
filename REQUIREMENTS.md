@@ -18,6 +18,7 @@
 | **0.4**      | 16-05-2025  | Samir   | Klikbare links toevoegd aan inhoud voor meer overzichtelijkheid | Usama         |
 | **0.5**      | 16-05-2025  | Rayaan   | Domeinmodel verbeterd, User Stories toegevoegd | Zakaria
 | **0.6**      | 30-05-2025  | Samir   | Alle Wireframes met Balsamiq gemaakt en beschreven | Clemens
+| **0.7**      | 15-06-2025  | Samir   | Oud Domeinmodel verwijderd en nieuw Domeinmodel gemaakt met Visual Paradigm | Usama
 
 ## Inhoud
 1. [**Organisatorische Context**](./1_Organisatorische_Context.md)
